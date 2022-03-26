@@ -1,6 +1,6 @@
 <template>
     <main>
-    <h1>Home page</h1>
+    <h1>Event page</h1>
     <NuxtLink to="/about">
       About
     </NuxtLink>
@@ -11,13 +11,13 @@
       Donate
     </NuxtLink>
         <NuxtLink to="/gallery">
-      About
+      Gallery
     </NuxtLink>
   </main>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
+  name: 'EventPage'
 }
 </script>
