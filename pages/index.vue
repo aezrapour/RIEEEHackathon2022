@@ -1,6 +1,9 @@
 <template>
     <main>
     <h1>Home page</h1>
+            <NuxtLink to="/">
+      Home
+    </NuxtLink>
     <NuxtLink to="/about">
       About
     </NuxtLink>
