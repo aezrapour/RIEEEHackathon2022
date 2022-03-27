@@ -10,7 +10,7 @@
         <b-nav-item href="/">Home</b-nav-item>
         <b-nav-item href="/about">E-board</b-nav-item>
         <b-nav-item href="/gallery">Gallery</b-nav-item>
-        <b-nav-item href="/event">Events</b-nav-item>
+        <b-nav-item href="/events">Events</b-nav-item>
         <b-nav-item href="/Contribute">Contribute</b-nav-item>
       </b-navbar-nav>
 

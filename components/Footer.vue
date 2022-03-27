@@ -31,7 +31,7 @@
             <li><a href="/about">E-board</a></li>
             <li><a href="/gallery">Gallery</a></li>
             <li>
-              <a href="/event">Events</a
+              <a href="/events">Events</a
               >
             </li>
             <li>
