@@ -4,14 +4,14 @@
 
     <!-- Site Content == Between the <div> tags -->
 <div>
-  <h2 class = "subtitle"> Bolivia 2018 </h2>
+  <h2 class = "subtitle"> Capiana, Bolivia 2018 </h2>
   <b-carousel
     id="carousel-fade"
     style="text-shadow: 0px 0px 2px #000"
     fade
     indicators
-    img-width="1024"
-    img-height="480"
+    img-width="800"
+    img-height="400"
   >
     <b-carousel-slide
       caption=""
@@ -27,7 +27,7 @@
     ></b-carousel-slide>
   </b-carousel>
 
-    <h2 class = 'subtitle'> Bolivia 2017 </h2>
+    <h2 class = 'subtitle'>Palmar Pampa B, Bolvia 2017</h2>
     <b-carousel
     id="carousel-fade"
     style="text-shadow: 0px 0px 2px #000"
