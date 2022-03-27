@@ -3,28 +3,15 @@
   <div>
     <NavBar />
     </div>
-
-    <div>
-  <div>
-  </div>
-  <div class="mt-4">
-    <h4>Upcoming Events:</h4>
-    <b-card img-src="https://placekitten.com/300/300" img-alt="Card image" img-left class="mb-3">
-      <b-card-text>
-        Some quick example text to build on the card and make up the bulk of the card's content.
-      </b-card-text>
-    </b-card>
-<div class="push"></div>
-    <b-card img-src="https://placekitten.com/300/300" img-alt="Card image" img-right>
-      <b-card-text>
-        Some quick example text to build on the card and make up the bulk of the card's content.
-      </b-card-text>
-    </b-card>
-  </div>
+<div>
+  <b-jumbotron header="General Interest Meeting" lead="Come join us at our first meeting!">
+    <p>For more information visit website:</p>
+    <b-button variant="primary" target="_blank" href="https://www.facebook.com/eia.rutgers">More Info</b-button>
+  </b-jumbotron>
 </div>
 <div class="push"></div>
 <div class="cal-wrapper">
-  <b-calendar today-variant="info" selected-variant="success" block locale="en-US" nav-button-variant="primary"></b-calendar>
+  <b-calendar today-variant="info" v-model="value" :date-info-fn="dateClass" selected-variant="success" block locale="en-US" nav-button-variant="primary" ></b-calendar>
 </div>
 
 <div class="push"></div>
@@ -35,8 +22,19 @@
 
 <script>
 export default {
-  name: 'EventsPage'
-}
+  name: 'EventsPage',
+    data() {
+      return {
+        value: ''
+      }
+    },
+    methods: {
+      dateClass(ymd, date) {
+        const day = date.getDate()
+        return day >= 10 && day <= 20 ? 'table-info' : ''
+      }
+    }
+  }
 </script>
 <style>
 .push {
