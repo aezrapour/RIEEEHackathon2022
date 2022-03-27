@@ -49,6 +49,13 @@
       img-src="https://b2p.rutgers.edu/sites/default/files/gallery/photos%20/20170819_100321.jpg"
     ></b-carousel-slide>
   </b-carousel>
+
+  id="carousel-fade"
+    style="text-shadow: 0px 0px 2px #000"
+    fade
+    indicators
+    img-width="1024"
+    img-height="480"
 </div>
 
 
