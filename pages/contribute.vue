@@ -6,21 +6,30 @@
       <NavBar/>
       </div>
   
-     
+<style>
+p{
+  padding-left:15px;
+}
+
+li{
+  padding-left:15px;
+}
+</style>
 
 
-<img class= "mainPic" src = "../assets/typorama.jpg" style = "width:1400px;height:600px;text-align:center">
+<img class= "mainPic" src = "../assets/typorama.jpg" style = "width:1450px;height:600px;align-self:center">
 
-<p></p> 
-<p></p> 
-<p></p> 
-<h1 style = "font-family: Impact">Are You Ready For This Challenge?</h1>
+
+
+
+
+<h1 style = "font-family: Impact;padding-left:15px; padding-top: 40px">Are You Ready For This Challenge?</h1>
 
 
 
 <img src="https://b2p.rutgers.edu/sites/all/themes/nexus/images/8.jpg"
 align = "right"
-width = "750"
+width = "650"
 length = "1500"
 >
 <p></p> 
@@ -29,23 +38,29 @@ length = "1500"
 
 
 
+<h1 style = "font-family: Impact; padding-left: 15px;padding-top: 20px">Donate to Our Chapter</h1>
+
+<p><a href="https://securelb.imodules.com/s/896/giving19/interior.aspx?sid=896&gid=1&pgid=2138&cid=3975&bledit=1&dids=1905.831">
+<img class= "buttonPic" src = "../assets/Daco_5500983.png" style = "width:300px;height:100px;"
+align = "right">
+</a></p>
 
 
-  <a class = "link" href="https://securelb.imodules.com/s/896/giving19/interior.aspx?sid=896&gid=1&pgid=2138&cid=3975&bledit=1&dids=1905.831">Donate</a>
+
   <ol class="direc"> 
   </ol>  
-  <li> Type "other" in the "OR" section.
+  <li> Hover over "Donate" to take you to the link.</li>
+  <li> Type "other" in the "OR" section.</li>
+  <li> Select "Other, please specify in Step 2"</li>
+  <li> Go to Step 2 and specify amount of your gift</li>
+  <li> In the section "If you've selected the 'other,please specify' option, please specify the fund: please type "Rutgers Bridges to Prosperity Chapter, 19164"  </li>
+  <li> Please fill out the rest of the remaining information </li>
+  </ol>
   </main>
 
 </template>
 
-<style scoped>
-  .link{
-    font-size: 24px;
-    text-align: center;
-    display: block;
-  }
-</style>
+
 
 <script>
 export default {
