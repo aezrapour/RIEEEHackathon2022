@@ -6,7 +6,7 @@
 <div>
   <b-jumbotron header="General Interest Meeting" lead="Come join us at our first meeting!">
     <p>For more information visit website:</p>
-    <b-button variant="primary" target="_blank" href="https://www.facebook.com/eia.rutgers">More Info</b-button>
+    <b-button variant="primary" target="_blank" href="https://www.instagram.com/ru_eia">More Info</b-button>
   </b-jumbotron>
 </div>
 <div class="push"></div>
