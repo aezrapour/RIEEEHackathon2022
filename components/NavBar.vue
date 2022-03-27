@@ -1,4 +1,5 @@
 <template>
+<header>
 <div>
   <b-navbar toggleable="lg">
     <b-navbar-brand href="/"><b-img src="../eia-logo.png" fluid alt="Responsive image"></b-img></b-navbar-brand>
@@ -25,4 +26,13 @@
     </b-collapse>
   </b-navbar>
 </div>
+<div class="push"></div>
+</header>
 </template>
+<style scoped>
+.push{
+  height: 5px;
+  background-color: red;
+  margin-bottom: 10px;
+}
+</style>
