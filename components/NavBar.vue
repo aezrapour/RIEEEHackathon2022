@@ -11,7 +11,7 @@
         <b-nav-item href="/about">E-board</b-nav-item>
         <b-nav-item href="/gallery">Gallery</b-nav-item>
         <b-nav-item href="/event">Events</b-nav-item>
-        <b-nav-item href="/donate">Donate</b-nav-item>
+        <b-nav-item href="/Contribute">Contribute</b-nav-item>
       </b-navbar-nav>
 
       <!-- Right aligned nav items -->

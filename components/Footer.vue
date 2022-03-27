@@ -35,7 +35,7 @@
               >
             </li>
             <li>
-              <a href="/donate">Donate</a>
+              <a href="/contribute">Contribute</a>
             </li>
           </ul>
         </div>
