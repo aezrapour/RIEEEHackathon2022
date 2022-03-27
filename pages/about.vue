@@ -78,6 +78,11 @@
      width = "400"
      length = "400"
     >
+    
+    
+<!-- Site footer -->
+<div class="push"></div>
+    <Footer />
   </main>
 
 </template>
@@ -87,3 +92,8 @@ export default {
   name: 'AboutPage'
 }
 </script>
+<style scoped>
+.push {
+  height: 50px;
+}
+</style>
