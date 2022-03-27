@@ -1,3 +1,5 @@
+
+
 <template>
     <main>
     <div>
@@ -29,11 +31,17 @@ length = "1500"
 
 
 
-  <a href="https://securelb.imodules.com/s/896/giving19/interior.aspx?sid=896&gid=1&pgid=2138&cid=3975&bledit=1&dids=1905.831">Donate</a>
+  <a class = "link" href="https://securelb.imodules.com/s/896/giving19/interior.aspx?sid=896&gid=1&pgid=2138&cid=3975&bledit=1&dids=1905.831">Donae</a>
   
   </main>
 
 </template>
+
+<style scoped>
+  a{
+    font-size: 24px;
+  }
+</style>
 
 <script>
 export default {
