@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'eia6',
+    title: 'Engineers In Action',
     htmlAttrs: {
       lang: 'en'
     },

@@ -16,6 +16,7 @@
         <NuxtLink to="/gallery">
       Gallery
     </NuxtLink>
+    <h1>kugiugiugi</h1>
   </main>
 </template>
 
