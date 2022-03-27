@@ -34,6 +34,7 @@ length = "1500"
   <a class = "link" href="https://securelb.imodules.com/s/896/giving19/interior.aspx?sid=896&gid=1&pgid=2138&cid=3975&bledit=1&dids=1905.831">Donate</a>
   <ol class="direc"> 
   </ol>  
+  <li> Type "other" in the "OR" section.
   </main>
 
 </template>
