@@ -14,16 +14,16 @@
     img-height="480"
   >
     <b-carousel-slide
-      caption="First slide"
-      img-src="https://picsum.photos/1024/480/?image=10"
+      caption=""
+      img-src="https://b2p.rutgers.edu/sites/default/files/gallery/photos%20/IMAG5372.jpg"
     ></b-carousel-slide>
     <b-carousel-slide
-      caption="Nulla vitae elit libero, a pharetra augue mollis interdum."
-      img-src="https://picsum.photos/1024/480/?image=52"
+      caption=""
+      img-src="https://b2p.rutgers.edu/sites/default/files/gallery/photos%20/%2846%29.jpg"
     ></b-carousel-slide>
     <b-carousel-slide
-      caption="Third Slide"
-      img-src="https://picsum.photos/1024/480/?image=54"
+      caption=""
+      img-src="https://b2p.rutgers.edu/sites/default/files/gallery/photos%20/%2862%29.jpg"
     ></b-carousel-slide>
   </b-carousel>
 
@@ -38,15 +38,15 @@
   >
     <b-carousel-slide
       caption="Palmar Pampa B, Bolivia 2017"
-      img-src="https://picsum.photos/1024/480/?image=10"
+      img-src="https://b2p.rutgers.edu/sites/default/files/gallery/photos%20/20170713_145524.jpg"
     ></b-carousel-slide>
     <b-carousel-slide
-      caption="Nulla vitae elit libero, a pharetra augue mollis interdum."
-      img-src="https://picsum.photos/1024/480/?image=52"
+      caption=""
+      img-src="https://b2p.rutgers.edu/sites/default/files/gallery/photos%20/20170818_084949.jpg"
     ></b-carousel-slide>
     <b-carousel-slide
-      caption="Third Slide"
-      img-src="https://picsum.photos/1024/480/?image=54"
+      caption=""
+      img-src="https://b2p.rutgers.edu/sites/default/files/gallery/photos%20/20170819_100321.jpg"
     ></b-carousel-slide>
   </b-carousel>
 </div>
