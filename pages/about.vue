@@ -1,21 +1,6 @@
 <template>
     <main>
-    <h1>about page</h1>
-            <NuxtLink to="/">
-      Home
-    </NuxtLink>
-    <NuxtLink to="/about">
-      About
-    </NuxtLink>
-        <NuxtLink to="/event">
-      Events
-    </NuxtLink>
-        <NuxtLink to="/donate">
-      Donate
-    </NuxtLink>
-        <NuxtLink to="/gallery">
-      Gallery
-    </NuxtLink>
+<div><NavBar /></div>
     
 <b-container profile class="p-4 bg-dark">
   <b-row>
