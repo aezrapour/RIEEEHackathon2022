@@ -32,7 +32,7 @@
 <style scoped>
 .push{
   height: 5px;
-  background-color: red;
-  margin-bottom: 10px;
+  background-color: black;
+  margin-bottom: 30px;
 }
 </style>

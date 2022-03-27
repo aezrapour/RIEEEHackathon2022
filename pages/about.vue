@@ -79,7 +79,7 @@
       <div class="container">
         <h2>Kara Forest</h2>
         <p class="title">Treasurer</p>
-        <p>"Kara Forest has been part of EIA since Freshman year as the clubs' EGC Representative and is currently the Treasurer in her sophomore year. Kara Forest Majors in Environmental Science and is Minoring in Environmental Policy at the Rutgers University School of Environmental and Biological Sciences. She loves being outside, hiking, and hanging out with friends. What Kara loves most about EIA is that if building the bridge in-country or coordinating from home, all the work done supports the greater community with incalculable impact. "</p>
+        <p class="par"> "Kara Forest has been part of EIA since Freshman year as the clubs' EGC Representative and is currently the Treasurer in her sophomore year. Kara Forest Majors in Environmental Science and is Minoring in Environmental Policy at the Rutgers University School of Environmental and Biological Sciences. She loves being outside, hiking, and hanging out with friends. What Kara loves most about EIA is that if building the bridge in-country or coordinating from home, all the work done supports the greater community with incalculable impact. "</p>
       </div>
     </div>
   </div>
@@ -156,10 +156,11 @@ export default {
   }
 }
 
+
 /* Add some shadows to create a card effect */
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  background-color: rgba(86, 121, 91, 0.849);
+  background-color: rgba(106, 148, 238, 0.966);
 }
 
 /* Some left and right padding inside the container */
@@ -175,7 +176,7 @@ export default {
 }
 
 .title {
-  color: rgba(58, 54, 54, 0.658);
+  color: rgb(16, 46, 110);/*rgba(58, 54, 54, 0.658);*/
 }
 
 .button {

@@ -129,5 +129,3 @@
   text-indent: 50px;
 }
 </style>
-
-</style>
