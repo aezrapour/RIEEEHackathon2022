@@ -16,7 +16,7 @@
 
       <!-- Right aligned nav items -->
       <b-navbar-nav class="ml-auto">
-        <b-nav-text>Follow Us:</b-nav-text>
+        <b-nav-text bold >Follow us:</b-nav-text>
 <b-nav-item href="https://www.facebook.com/eia.rutgers"><b-icon icon="facebook" aria-hidden="true"></b-icon></b-nav-item>
 
         <b-nav-item href="https://www.instagram.com/ru_eia"><b-icon icon="instagram" aria-hidden="true"></b-icon></b-nav-item>

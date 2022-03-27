@@ -1,7 +1,7 @@
 <template>
-<header>
+<main>
     <NavBar />
-</header>
+</main>
 </template>
 
 <script>
