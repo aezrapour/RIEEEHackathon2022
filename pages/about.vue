@@ -51,9 +51,7 @@
 
  <div class="column">
     <div class="card">
-      <img src="https://b2p.rutgers.edu/sites/all/themes/nexus/images/eboardpics/fund.jpg" 
-      height = 320
-      width = 200
+      <img src="../jane.png" 
       alt="John" style="width:100%">
       <div class="container">
         <h2>John Doe</h2>
