@@ -1,17 +1,16 @@
 <template>
 <main>
-  <div>
     <NavBar />
-  </div>
 
-<!-- Site Content == Between the <div> tags -->
+
+    <!-- Site Content == Between the <div> tags -->
 <div class="main-content">
 <p>Hello World</p>
 <p>How is the World?</p>
 </div>
-    
-    
-<!-- Site footer -->
+
+
+    <!-- Site footer -->
 <div class="push"></div>
     <Footer />
 </main>
@@ -19,7 +18,7 @@
 
 <script>
 export default {
-  name: 'IndexPage'
+  name: 'DonatePage'
 }
 </script>
 <style scoped>
