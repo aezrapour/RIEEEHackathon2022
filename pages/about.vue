@@ -51,7 +51,7 @@
 
  <div class="column">
     <div class="card">
-      <img src="../jane.png" 
+      <img src="" 
       alt="John" style="width:100%">
       <div class="container">
         <h2>Lea-May Cabigas</h2>
@@ -114,7 +114,7 @@
       <div class="container">
         <h2>Alexandra Sitarz</h2>
         <p class="title">ECG Representative</p>
-        <p>"I joined EIA because I've always been passionate about helping people. I knew I wanted to be in a club that makes a visible difference in people's lives and EIA gives me the opportunity to combine my major and my passion for helping people into one. "</p>
+        <p>"I joined EIA because I'venpm always been passionate about helping people. I knew I wanted to be in a club that makes a visible difference in people's lives and EIA gives me the opportunity to combine my major and my passion for helping people into one. "</p>
       </div>
     </div>
   </div>
@@ -144,7 +144,8 @@ export default {
   padding: 0 16px;
   margin-left: auto;
   margin-right: auto;
-  width: 22em
+  width: 22em;
+  background: rgb(179, 179, 179);
 }
 
 
@@ -160,7 +161,7 @@ export default {
 /* Add some shadows to create a card effect */
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  background-color: rgba(106, 148, 238, 0.966);
+  background-color: rgba(0, 0, 0, 0);
 }
 
 /* Some left and right padding inside the container */

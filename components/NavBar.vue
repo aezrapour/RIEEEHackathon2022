@@ -1,6 +1,6 @@
 <template>
 <header>
-<div>
+<div class="container22" >
   <b-navbar toggleable="lg">
     <b-navbar-brand href="/"><b-img src="../eia-logo.png" fluid alt="Responsive image"></b-img></b-navbar-brand>
 
@@ -34,5 +34,8 @@
   height: 5px;
   background-color: black;
   margin-bottom: 30px;
+}
+.container22{
+   background-color: #e3eafe;
 }
 </style>
