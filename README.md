@@ -1,4 +1,22 @@
-# eia6
+# Engineers in Action Website
+
+## Todo:
+
+- [ ] Images
+- [ ] Color Scheme / Theme
+- [ ] Deploying and Hosting
+- [ ] Domain Name
+- [ ] Contents
+- [ ] Link to sign up for mailing list
+- [ ] Blurb from members / E-boards
+- [ ] Design
+
+## Suggestions:
+
+1. Change Framework of website
+2. ...Does anyone else have suggestions? Feel free to add
+
+
 
 ## Build Setup
 
