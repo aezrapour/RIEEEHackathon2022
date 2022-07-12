@@ -3,12 +3,14 @@
 ## Todo:
 
 - [ ] Images / svg
+- [ ] Image hosting??
 - [ ] Color Scheme / Theme
 - [ ] Deploying and Hosting
 - [ ] Domain Name
 - [ ] Contents
 - [ ] Link to sign up for mailing list
-- [ ] Blurb from members / E-boards (word count: ??)
+- [ ] Link to donation page
+- [ ] Blurb from members / E-boards (word count / character count: ??)
 - [ ] New profile images of E-Boards
 - [ ] Design
 
