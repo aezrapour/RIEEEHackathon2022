@@ -48,7 +48,6 @@ align = "right">
 
 
   <ol class="direc"> 
-  </ol>  
   <li> Hover over "Donate" to take you to the link.</li>
   <li> Type "other" in the "OR" section.</li>
   <li> Select "Other, please specify in Step 2"</li>
@@ -56,8 +55,9 @@ align = "right">
   <li> In the section "If you've selected the 'other,please specify' option, please specify the fund: please type "Rutgers Bridges to Prosperity Chapter, 19164"  </li>
   <li> Please fill out the rest of the remaining information </li>
   </ol>
-  </main>
 
+  <Footer />
+  </main>
 </template>
 
 
