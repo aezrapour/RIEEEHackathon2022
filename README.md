@@ -1,4 +1,25 @@
-# eia6
+# Engineers in Action Website
+
+## Todo:
+
+- [ ] Images / svg
+- [ ] Image hosting??
+- [ ] Color Scheme / Theme
+- [ ] Deploying and Hosting
+- [ ] Domain Name
+- [ ] Contents
+- [ ] Link to sign up for mailing list
+- [ ] Link to donation page
+- [ ] Blurb from members / E-boards (word count / character count: ??)
+- [ ] New profile images of E-Boards
+- [ ] Design
+
+## Suggestions:
+
+1. Change Framework of website from nuxt.js to pure html / css / Javascript
+2. ...Does anyone else have suggestions? Feel free to add
+
+
 
 ## Build Setup
 
