@@ -160,7 +160,7 @@ export default {
 /* Add some shadows to create a card effect */
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  background-color: rgba(106, 148, 238, 0.966);
+  background-color: rgba(106, 148, 238, 0.966)
 }
 
 /* Some left and right padding inside the container */
