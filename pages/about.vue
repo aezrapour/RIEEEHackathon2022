@@ -45,7 +45,9 @@
 <div class="row">
   <div class="column">
     <div class="card">
-        <img src="../assets/Eboard/John.JPG" alt="John" style="width:100%">
+         <div class = "cropped">
+         <img src="../assets/Eboard/John.JPG" alt="John">
+         </div>
         <div class="container">
         <h2>John O’Keefe</h2>
         <p class="title">Project Manager</p>
@@ -56,7 +58,9 @@
 
  <div class="column">
     <div class="card">
-      <img src="../assets/Eboard/Amol.JPG" alt="Amol" style="width:100%">
+      <div class = "cropped">
+         <img src="../assets/Eboard/Amol.JPG" alt="Amol">
+         </div>
       <div class="container">
         <h2>Amol Srivastava</h2>
         <p class="title">Treasurer</p>
@@ -80,7 +84,9 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="../assets/Eboard/Jonathan.JPG" alt="Jonathan" style="width:100%">
+      <div class = "cropped">
+         <img src="../assets/Eboard/Jonathan.JPG" alt="Jonathan">
+         </div>
       <div class="container">
         <h2>Jonathan Liu</h2>
         <p class="title">Events Coordinator</p>
@@ -91,7 +97,9 @@
 
   <div class="column">
     <div class="card">
-      <img src= "../assets/Eboard/Sam-Defalco.JPG" alt="SamD" style="width:100%">
+      <div class = "cropped">
+         <img src="../assets/Eboard/Sam-Defalco.JPG" alt="Sam Defalco">
+         </div>
       <div class="container">
         <h2>Sam DeFalco</h2>
         <p class="title">Flyerboy</p>
@@ -102,7 +110,9 @@
 
   <div class="column">
     <div class="card">
-      <img src= "../assets/Eboard/Rohan.JPG" alt="Rohan" style="width:100%">
+      <div class = "cropped">
+         <img src="../assets/Eboard/Rohan.JPG" alt="Rohan">
+         </div>
       <div class="container">
         <h2>Rohan Rahalkar</h2>
         <p class="title">Webmaster</p>
@@ -115,7 +125,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src= "../assets/Eboard/Jessica.JPG" alt="Jessica" style="width:100%">
+         <img src="../assets/Eboard/Jessica.JPG" alt="Jessica">
       <div class="container">
         <h2>Jessica Youssef</h2>
         <p class="title">Social Media</p>
@@ -126,7 +136,9 @@
 
   <div class="column">
     <div class="card">
-      <img src= "../assets/Eboard/Ali.JPG" alt="Ali" style="width:100%">
+      <div class = "cropped">
+         <img src="../assets/Eboard/Ali.JPG" alt="Ali">
+         </div>
       <div class="container">
         <h2>Ali Sozen</h2>
         <p class="title">Fundraising Chair</p>
@@ -137,7 +149,9 @@
 
     <div class="column">
     <div class="card">
-      <img src= "../assets/Eboard/Grace.JPG" alt="Grace" style="width:100%">
+      <div class = "cropped">
+         <img src="../assets/Eboard/Grace.JPG" alt="Grace">
+         </div>
       <div class="container">
         <h2>Grace Morris</h2>
         <p class="title">EGC Representative</p>
@@ -246,7 +260,7 @@ overflow: hidden;
 .cropped img {
         width: 318px;
         height: auto;
-        margin: -75px 0 0 0;
+        margin: -55px 0 0 0;
 }
 
 </style>
