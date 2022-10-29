@@ -5,7 +5,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src= "../assets/Eboard/Sarah.JPG" alt="Sarah" style="width:100%">
+      <img src= "../assets/Eboard/Sarah.JPG" alt="Sarah" style="width:100%" height = 318px>
       <div class="container">
         <h2>Sarah Mah</h2>
         <p class="title">E-Board Advisor</p>
@@ -16,18 +16,24 @@
 
   <div class="column">
     <div class="card">
-      <img src="../assets/Eboard/Alex.JPG" alt="Alex" style="width:100%">
-      <div class="container">
+      <div class = "cropped">
+        <img src="../assets/Eboard/Alex.JPG" alt="Alex">
+        </div>
+         <div class="container">
         <h2>Alex Sitarz</h2>
         <p class="title">President</p>
         <p>Hi! My name is Alex and I'm a senior studying Civil Engineering. I am the President of Engineers in Action. In 2021 I traveled with EIA to build a vehicular bridge in West Virginia. I joined EIA my freshman year because I saw a great opportunity to help people while pursuing my passion in engineering. Outside of the classroom I love to cook, bake, and do arts and crafts. I'm looking forward to a great last year.</p>
-      </div>
+      
     </div>
+  </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="../assets/Eboard/Cole.JPG" alt="Cole" style="width:100%">
+      <div class = "cropped">
+        
+      <img src="../assets/Eboard/Cole.JPG" alt="Cole">
+      </div>
       <div class="container">
         <h2>Cole Jenkins</h2>
         <p class="title">Vice President</p>
@@ -228,6 +234,18 @@ export default {
 
 .button:hover {
   background-color: rgb(58, 57, 57);
+}
+
+.cropped {
+width: 318px; 
+height: 318px; 
+overflow: hidden;
+}
+
+.cropped img {
+        width: 318px;
+        height: auto;
+        margin: 0px 80 0 0;
 }
 
 </style>
