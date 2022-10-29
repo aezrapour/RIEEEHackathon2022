@@ -92,13 +92,13 @@
   display: block;
   font-weight: 300;
   font-size: 100px;
-  color: #35495e;
+  /*color: #35495e;*/
   letter-spacing: 1px;
 }
 .subtitle {
   font-weight: 300;
   font-size: 42px;
-  color: #526488;
+  /*color: #526488;*/
   word-spacing: 5px;
   padding-bottom: 15px;
 }
@@ -106,7 +106,7 @@
 .keyPoints {
   font-weight: 300;
   font-size: 42px;
-  color: #526488;
+  /*color: #526488;*/
   word-spacing: 5px;
   padding-bottom: 15px;
   padding-top: 50px;
@@ -119,7 +119,7 @@
 .description {
   font-weight: 100px;
   font-size: 24px;
-  color: #526488;
+  /*color: #526488;*/
   word-spacing: 5px;
   padding-bottom: 15px;
   padding-top: 15px;
