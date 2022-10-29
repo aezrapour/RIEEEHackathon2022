@@ -136,6 +136,7 @@ export default {
   height: 50px;
 }
 
+
 /* Three columns side by side */
 .column {
   float: left;
@@ -145,7 +146,7 @@ export default {
   margin-left: auto;
   margin-right: auto;
   width: 22em;
-  background: rgb(179, 179, 179);
+  /*background: rgb(179, 179, 179);*/
 }
 
 
@@ -160,13 +161,14 @@ export default {
 
 /* Add some shadows to create a card effect */
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  background-color: rgba(0, 0, 0, 0);
+  /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);*/
+  /*background-color: rgba(0, 0, 0, 0);*/
 }
+
 
 /* Some left and right padding inside the container */
 .container {
-  padding: 0 20px;
+  padding: 20px 20px;
 }
 
 /* Clear floats */
