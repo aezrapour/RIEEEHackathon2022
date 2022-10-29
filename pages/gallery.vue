@@ -3,7 +3,8 @@
     <NavBar />
 
     <!-- Site Content == Between the <div> tags -->
-<div>
+<div class="carousel-container">
+  <div class="carousel-wrapper">
    <h2 class = 'subtitle'>Eswatini, 2022</h2>
     <b-carousel
       id="carousel-1"
@@ -67,12 +68,12 @@
   <!-- Capiana, Bolivia -->
   <h2 class = "subtitle"> Capiana, Bolivia 2018 </h2>
   <b-carousel
-    id="carousel-fade"
     style="text-shadow: 0px 0px 2px #000"
     fade
     indicators
     img-width="800"
     img-height="400"
+    :interval="0"
   >
     <b-carousel-slide
       caption=""
@@ -175,12 +176,12 @@
 
     <h2 class = 'subtitle'>Palmar Pampa B, Bolvia 2017</h2>
     <b-carousel
-    id="carousel-fade"
     style="text-shadow: 0px 0px 2px #000"
     fade
     indicators
     img-width="1024"
     img-height="480"
+    :interval="0"
   >
     <b-carousel-slide
       caption="Palmar Pampa B, Bolivia 2017"
@@ -263,6 +264,7 @@
       img-src="../assets/Palmar/Prep (20).jpg"
     ></b-carousel-slide>
   </b-carousel>
+  </div>
 </div>
 
 
@@ -302,6 +304,19 @@
   padding-top: 35px;
   padding-bottom: 20px;
   text-align: center;
+}
+
+.carousel-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel-wrapper {
+  max-width: 90%;
 }
 
 </style>
