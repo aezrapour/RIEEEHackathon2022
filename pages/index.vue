@@ -24,13 +24,17 @@
     img-width="1024"
     img-height="480"
   >
-    <b-carousel-slide
-      caption="Palmar Pampa B, Bolivia 2017"
-      img-src="../assets/homePage1.jpg"
+      <b-carousel-slide
+      caption="Eswatini 2022"
+      img-src="../assets/Eswatini/2022BridgeTeamCropped.png"
+    ></b-carousel-slide>
+      <b-carousel-slide
+      caption="Eswatini 2022"
+      img-src="../assets/Eswatini/IMG_4576.jpg"
     ></b-carousel-slide>
     <b-carousel-slide
-      caption="Capiana, Bolivia 2018"
-      img-src="../assets/homePage2.jpg"
+      caption="Eswatini 2022"
+      img-src="../assets/Eswatini/IMG_9429.jpg"
     ></b-carousel-slide>
   </b-carousel>
       <h3 class = "keyPoints">
