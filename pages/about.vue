@@ -5,7 +5,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src= "../assets/Eboard/Sarah.JPG" alt="Sarah" style="width:100%" height = 318px>
+      <img src= "../assets/Eboard/Sarah.JPG" alt="Sarah">
       <div class="container">
         <h2>Sarah Mah</h2>
         <p class="title">E-Board Advisor</p>
@@ -31,7 +31,6 @@
   <div class="column">
     <div class="card">
       <div class = "cropped">
-        
       <img src="../assets/Eboard/Cole.JPG" alt="Cole">
       </div>
       <div class="container">
@@ -46,8 +45,8 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="../assets/Eboard/John.JPG" alt="John" style="width:100%">
-      <div class="container">
+        <img src="../assets/Eboard/John.JPG" alt="John" style="width:100%">
+        <div class="container">
         <h2>John O’Keefe</h2>
         <p class="title">Project Manager</p>
         <p>Hello there! I am John O'Keefe and I am serving as the Project Manager this year. I am a junior majoring in civil engineering and this is my second year in the club after being a co-webmaster last year. I am excited to help lead the bridge design of our chapter and work closely with the travel members to ensure we build the best bridge we can. EIA has become my favorite part of college because it has allowed me to grow as a civil student, embrace new cultures and experiences, and do this all with some of the most intelligent and kindest people surrounding me. I cannot wait to see what we will accomplish this year.</p>
@@ -77,6 +76,7 @@
     </div>
   </div>
 </div>
+
 <div class="row">
   <div class="column">
     <div class="card">
@@ -240,12 +240,13 @@ export default {
 width: 318px; 
 height: 318px; 
 overflow: hidden;
+
 }
 
 .cropped img {
         width: 318px;
         height: auto;
-        margin: 0px 80 0 0;
+        margin: -75px 0 0 0;
 }
 
 </style>
