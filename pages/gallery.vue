@@ -4,6 +4,67 @@
 
     <!-- Site Content == Between the <div> tags -->
 <div>
+   <h2 class = 'subtitle'>Eswatini, 2022</h2>
+    <b-carousel
+      id="carousel-1"
+      v-model="slide"
+      :interval="3000"
+      controls
+      indicators
+      background="#ababab"
+      img-width="1024"
+      img-height="480"
+      style="text-shadow: 1px 1px 2px #333;"
+  >
+      <b-carousel-slide
+      caption=""
+      img-src="../assets/Eswatini/IMG_8554.jpg"
+    ></b-carousel-slide>
+    <b-carousel-slide
+      caption=""
+      img-src="../assets/Eswatini/IMG_4576.jpg"
+    ></b-carousel-slide>
+    <b-carousel-slide
+      caption=""
+      img-src="../assets/Eswatini/IMG_4577.jpg"
+    ></b-carousel-slide>
+    <b-carousel-slide
+      caption=""
+      img-src="../assets/Eswatini/IMG_9390.jpg"
+    ></b-carousel-slide>
+    <b-carousel-slide
+      caption=""
+      img-src="../assets/Eswatini/20220613_085253.jpg"
+    ></b-carousel-slide>
+    <b-carousel-slide
+      caption=""
+      img-src="../assets/Eswatini/20220606_160258.jpg"
+      img-height="480px"
+    ></b-carousel-slide>
+    <b-carousel-slide
+      caption=""
+      img-src="../assets/Eswatini/IMG_9866.jpg"
+    ></b-carousel-slide>
+    <b-carousel-slide
+      caption=""
+      img-src="../assets/Eswatini/IMG_9608.jpg"
+    ></b-carousel-slide>
+    <b-carousel-slide
+      caption=""
+      img-src="../assets/Eswatini/IMG_9722.jpg"
+    ></b-carousel-slide>
+    <b-carousel-slide
+      caption=""
+      img-src="../assets/Eswatini/IMG_0010.jpg"
+    ></b-carousel-slide>
+ <b-carousel-slide
+      caption=""
+      img-src="../assets/Eswatini/2022BridgeTeam.jpg"
+    ></b-carousel-slide>
+  </b-carousel>
+
+
+  <!-- Capiana, Bolivia -->
   <h2 class = "subtitle"> Capiana, Bolivia 2018 </h2>
   <b-carousel
     id="carousel-fade"
@@ -242,4 +303,5 @@
   padding-bottom: 20px;
   text-align: center;
 }
+
 </style>
