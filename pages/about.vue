@@ -191,7 +191,6 @@ export default {
   height: 50px;
 }
 
-
 /* Three columns side by side */
 .column {
   float: left;
@@ -204,7 +203,6 @@ export default {
   /*background: rgb(179, 179, 179);*/
 }
 
-
 /* Display the columns below each other instead of side by side on small screens */
 @media screen and (max-width: 650px) {
   .column {
@@ -212,11 +210,6 @@ export default {
     display: block;
   }
 }
-
-
-/* Add some shadows to create a card effect */
-
-
 
 /* Some left and right padding inside the container */
 .container {
@@ -232,22 +225,8 @@ export default {
 
 .title {
   color: rgb(16, 46, 110);/*rgba(58, 54, 54, 0.658);*/
-}
-
-.button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-}
-
-.button:hover {
-  background-color: rgb(58, 57, 57);
+  font-size: 1.2em;
+  font-weight:600;
 }
 
 .cropped {
