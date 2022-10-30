@@ -71,7 +71,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="../assets/Eboard/Eric.JPG" alt="Eric" style="width:100%">
+      <img src="../assets/Eboard/eric2.png" alt="Eric" style="width:100%" height = 318px>
       <div class="container">
         <h2>Eric Rickershauser</h2>
         <p class="title">Secretary</p>
@@ -164,7 +164,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src= "../assets/Eboard/SamLee.JPG" alt="Sam Lee" style="width:100%">
+      <img src= "../assets/Eboard/SamLee.JPG" alt="Sam Lee" style="width:100%" >
       <div class="container">
         <h2>Sam Lee</h2>
         <p class="title">Travel Advisor</p>
@@ -262,5 +262,4 @@ overflow: hidden;
         height: auto;
         margin: -55px 0 0 0;
 }
-
 </style>
