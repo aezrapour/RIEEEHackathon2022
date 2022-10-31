@@ -4,7 +4,7 @@
     <NavBar />
     </div>
 <div>
-  <b-jumbotron header="General Interest Meeting" lead="Come join us at our first meeting!">
+  <b-jumbotron header="Meeting" lead="Come join us! All are welcome">
     <p>For more information:</p>
     <b-button variant="primary" target="_blank" href="https://www.instagram.com/ru_eia">See details</b-button>
   </b-jumbotron>

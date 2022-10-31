@@ -1,19 +1,17 @@
 <template>
     <main>
 <header><NavBar /></header>
+
+<section class="header">
+    <h1> Meet Our Family </h1>
+</section>
+
+<section style="padding-bottom:30px">
+</section>
+
+
     
 <div class="row">
-  <div class="column">
-    <div class="card">
-      <img src= "../assets/Eboard/Sarah.JPG" alt="Sarah">
-      <div class="container">
-        <h2>Sarah Mah</h2>
-        <p class="title">E-Board Advisor</p>
-        <p>Hi there! My name is Sarah Mah and I am a Junior studying Packaging Engineering with a minor in Fine Art. Currently, I'll be serving as EIA's Board Advisor where I help onboard new members and assist in tasks for organizing events/meetings. I joined EIA as a freshman because I was inspired by the organization's compassion and mission to make change by helping and connecting with communities. It's a rewarding experience to be a part of a caring and inclusive group! Outside of school, I enjoy spending my free time painting and listening to music. Can't wait for an amazing semester! :D </p>
-      </div>
-    </div>
-  </div>
-
   <div class="column">
     <div class="card">
       <div class = "cropped">
@@ -40,10 +38,7 @@
       </div>
     </div>
   </div>
-</div>
-
-<div class="row">
-  <div class="column">
+ <div class="column">
     <div class="card">
          <div class = "cropped">
          <img src="../assets/Eboard/John.JPG" alt="John">
@@ -55,7 +50,9 @@
       </div>
     </div>
   </div>
+</div>
 
+<div class="row">
  <div class="column">
     <div class="card">
       <div class = "cropped">
@@ -79,9 +76,31 @@
       </div>
     </div>
   </div>
+
+  <div class="column">
+    <div class="card">
+      <img src= "../assets/Eboard/Sarah.JPG" alt="Sarah">
+      <div class="container">
+        <h2>Sarah Mah</h2>
+        <p class="title">E-Board Advisor</p>
+        <p>Hi there! My name is Sarah Mah and I am a Junior studying Packaging Engineering with a minor in Fine Art. Currently, I'll be serving as EIA's Board Advisor where I help onboard new members and assist in tasks for organizing events/meetings. I joined EIA as a freshman because I was inspired by the organization's compassion and mission to make change by helping and connecting with communities. It's a rewarding experience to be a part of a caring and inclusive group! Outside of school, I enjoy spending my free time painting and listening to music. Can't wait for an amazing semester! :D </p>
+      </div>
+    </div>
+  </div>
 </div>
 
 <div class="row">
+  <div class="column">
+    <div class="card">
+      <img src= "../assets/Eboard/Sam2.png" alt="Sam Lee" width=100% height = 318px>
+      <div class="container">
+        <h2>Sam Lee</h2>
+        <p class="title">Travel Advisor</p>
+        <p>Hello! My name is Samuel Lee and I am a senior studying civil engineering and urban planning and design. I will be a travel advisor for the Rutgers EIA chapter where I use my travel experience from the 2022 Emabheleni bridge built in Eswatini to help prepare new travelers for their upcoming travel experience. I joined EIA because as a civil engineering student, I was inspired by their mission of connecting isolated communities to essential resources in an effort to further develop sustainable infrastructure and economic prosperity. Some fun facts about me: I can play the piano and I am also an e-board member of the Rutgers Running Club. I look forward to meeting and working with all of our new members!</p>
+      </div>
+    </div>
+  </div>
+
   <div class="column">
     <div class="card">
       <div class = "cropped">
@@ -98,12 +117,40 @@
   <div class="column">
     <div class="card">
       <div class = "cropped">
+         <img src="../assets/Eboard/Grace.JPG" alt="Grace">
+         </div>
+      <div class="container">
+        <h2>Grace Morris</h2>
+        <p class="title">EGC Representative</p>
+        <p>Hey! My name is Grace Morris and I'm a junior studying Civil Engineering. As the EGC Representative, I relay important information back and forth from our Engineering Government. I joined EIA as a way of connecting with others and gaining fulfilling experiences. As a transfer student, this club offers me a chance to meet with other people in my major, and a way of gaining real-world experience while helping others less fortunate. Some fun facts about me are that I can draw realism, I play volleyball, and I love Vietnamese food! I can't wait for what this upcoming year brings!</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <div class = "cropped">
          <img src="../assets/Eboard/Sam-Defalco.JPG" alt="Sam Defalco">
          </div>
       <div class="container">
         <h2>Sam DeFalco</h2>
         <p class="title">Flyerboy</p>
         <p>Hello, my name is Sam DeFalco and I’m a Junior majoring in Civil Engineering. This year I’ll be serving as EIA’s Flyerboy and informing everyone of the planned events. I joined EIA because it seemed fun and a great place to meet new people. When not studying, I like hiking, and playing video games. I'm excited to meet all of you!</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <div class = "cropped">
+         <img src="../assets/Eboard/Ali.JPG" alt="Ali">
+         </div>
+      <div class="container">
+        <h2>Ali Sozen</h2>
+        <p class="title">Fundraising Chair</p>
+        <p>Hi, my name is Ali Sozen, I am a sophomore majoring in Civil Engineering, and I am the Fundraising Lead for EIA this school year, I will be leading the fundraising events for EIA. I joined EIA as I wanted to help communities in need while gaining engineering experience. My hobbies include hiking, hanging out with friends, and working out.</p>
       </div>
     </div>
   </div>
@@ -133,46 +180,6 @@
       </div>
     </div>
   </div>
-
-  <div class="column">
-    <div class="card">
-      <div class = "cropped">
-         <img src="../assets/Eboard/Ali.JPG" alt="Ali">
-         </div>
-      <div class="container">
-        <h2>Ali Sozen</h2>
-        <p class="title">Fundraising Chair</p>
-        <p>Hi, my name is Ali Sozen, I am a sophomore majoring in Civil Engineering, and I am the Fundraising Lead for EIA this school year, I will be leading the fundraising events for EIA. I joined EIA as I wanted to help communities in need while gaining engineering experience. My hobbies include hiking, hanging out with friends, and working out.</p>
-      </div>
-    </div>
-  </div>
-
-    <div class="column">
-    <div class="card">
-      <div class = "cropped">
-         <img src="../assets/Eboard/Grace.JPG" alt="Grace">
-         </div>
-      <div class="container">
-        <h2>Grace Morris</h2>
-        <p class="title">EGC Representative</p>
-        <p>Hey! My name is Grace Morris and I'm a junior studying Civil Engineering. As the EGC Representative, I relay important information back and forth from our Engineering Government. I joined EIA as a way of connecting with others and gaining fulfilling experiences. As a transfer student, this club offers me a chance to meet with other people in my major, and a way of gaining real-world experience while helping others less fortunate. Some fun facts about me are that I can draw realism, I play volleyball, and I love Vietnamese food! I can't wait for what this upcoming year brings!</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img src= "../assets/Eboard/Sam2.png" alt="Sam Lee" width=100% height = 318px>
-      <div class="container">
-        <h2>Sam Lee</h2>
-        <p class="title">Travel Advisor</p>
-        <p>Hello! My name is Samuel Lee and I am a senior studying civil engineering and urban planning and design. I will be a travel advisor for the Rutgers EIA chapter where I use my travel experience from the 2022 Emabheleni bridge built in Eswatini to help prepare new travelers for their upcoming travel experience. I joined EIA because as a civil engineering student, I was inspired by their mission of connecting isolated communities to essential resources in an effort to further develop sustainable infrastructure and economic prosperity. Some fun facts about me: I can play the piano and I am also an e-board member of the Rutgers Running Club. I look forward to meeting and working with all of our new members!</p>
-      </div>
-    </div>
-  </div>
-
 </div>
 
 <div class="push"></div>
@@ -181,10 +188,12 @@
 
 </template>
 
+
 <script>
 export default {
   name: 'AboutPage'
 }
+
 </script>
 <style scoped>
 .push{
@@ -241,4 +250,14 @@ overflow: hidden;
         height: auto;
         margin: -55px 0 0 0;
 }
+
+.header {
+  text-align:center;
+  width: 100%;
+  padding: 40px 0px;
+  text-align: center;
+  background: #9da6d7;
+  color: white;
+}
+
 </style>
