@@ -18,7 +18,7 @@
           </p>
           <p><b-icon icon="map" aria-hidden="true"></b-icon>  
         7 College Ave New Brunswick, New Jersey 08901 United States</p>
-        <b-link href="mailto: b2prutgers@gmail.com">b2prutgers@gmail.com</b-link>
+        <b-link href="mailto: b2p.rutgers@gmail.com">b2p.rutgers@gmail.com</b-link>
         </div>
 
         <div class="col-xs-6 col-md-3">
